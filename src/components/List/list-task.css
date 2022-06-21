@@ -1,0 +1,30 @@
+.list-item {
+  display: flex;
+
+  padding-top: 20px;
+  width: 100%;
+}
+.p {
+  size: 60px;
+  width: 65%;
+  float: left;
+  margin-left: 50px;
+}
+.btn-list {
+  gap: 10px;
+  width: 35%;
+}
+.btn-completed {
+  float: left;
+  size: 20px;
+  color: green;
+  background-color: white;
+  border: white;
+}
+.btn--remove {
+  height: 35px;
+  width: 41px;
+  font-size: 20px;
+  background-color: white;
+  border: white;
+}

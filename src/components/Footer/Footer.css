@@ -1,0 +1,11 @@
+.footer {
+  margin: 0 auto;
+  width: 200px;
+}
+.btn-footer {
+  background-color: #fff;
+  border: none;
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+}
